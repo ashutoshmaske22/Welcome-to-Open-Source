@@ -1712,3 +1712,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         </tr>
     </tbody>
 </table>
+
+
+
+<td align="center">
+    <a href="https://ashutoshmaske.com/">
+        <img src="https://avatars.githubusercontent.com/u/168994811?v=4" width="100px;" alt="Ali Solanki"/>
+        <br />
+        <sub><b>Ashutosh Maske</b></sub>
+    </a>
+</td>
+ <td align="center">
+    <a href="https://github.com/ashutoshmaske22">
+        <img src="https://avatars.githubusercontent.com/u/168994811?v=4" width="100px;" alt="Neeraj Madake"/>
+        <br />
+        <sub><b>Ashutosh Maske
+    </a>
+</td>
